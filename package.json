@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/shaunakv1/node-ping-logger#readme",
   "dependencies": {
-    "ping": "^0.1.10"
+    "ping": "^0.1.10",
+    "ping-stats": "^1.0.3"
   }
 }
